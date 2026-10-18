@@ -13,3 +13,19 @@
 *.o
 bin/
 data/
+
+# Added by Noctifab pre-flight guardrails
+.noctifab/
+target/
+node_modules/
+dist/
+build/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.bundle/
+*.class
+*.so
+*.dylib
+*.log
